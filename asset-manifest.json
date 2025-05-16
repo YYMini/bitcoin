@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bitcoin/static/js/main.ec51b4a2.js",
+    "main.js": "/bitcoin/static/js/main.c08753f7.js",
     "index.html": "/bitcoin/index.html",
-    "main.ec51b4a2.js.map": "/bitcoin/static/js/main.ec51b4a2.js.map"
+    "main.c08753f7.js.map": "/bitcoin/static/js/main.c08753f7.js.map"
   },
   "entrypoints": [
-    "static/js/main.ec51b4a2.js"
+    "static/js/main.c08753f7.js"
   ]
 }
